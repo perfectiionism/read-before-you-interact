@@ -4,6 +4,6 @@
 
 ![STALKERS](https://komarev.com/ghpvc/?username=perfectionism&label=stalkers&color=2ec4b6)
 
-  ![My Image](https://github.com/perfectiionism/perfectiionism/blob/30cdb5177417a07fcdbb41b627b25273e2a6c895/Untitled602_20260204181730.png?raw=true)
+![my image](https://github.com/perfectiionism/perfectiionism/blob/802b91ee6a84e8bd3d38e7ea4fc0a81541eea6cd/Untitled603_20260204184553.png?raw=true)
 
 </div>
