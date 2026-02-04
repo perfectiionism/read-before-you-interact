@@ -1,1 +1,1 @@
-![Stalkers counter on GitHub](https://komarev.com/ghpvc/?username=perfectiionism)
+![stalkers counter on GitHub](https://komarev.com/ghpvc/?username=perfectiionism)
